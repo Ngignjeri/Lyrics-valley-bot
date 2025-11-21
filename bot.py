@@ -3,7 +3,7 @@ import requests
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("7809876555:AAGEzlW_nCRuY33_AHBfz0lVbJHxN50qbHY")
 
 
 def start(update, context):
